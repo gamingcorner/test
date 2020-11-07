@@ -1,17 +1,17 @@
 {
-  "name": "test",
-  "description": "test",
+  "name": "tshsjsj",
+  "description": "tesjjsjst",
   "logo": "",
   "keywords": [
-    "Test"
+    "Tesjskskst"
   ],
-  "repository": "https://github.com/gamingcorner/keke",
+  "repository": "https://github.com/gamingcornzjsjer/keskskke",
   "website": "discord.sucks",
-  "success_url": "https://github.com/gamingcorner/keke",
-  "stack": "python",
+  "success_url": "https://github.com/gamingcosksksrner/kananeke",
+  "stack": "container",
   "env": {
     "ENV": {
-    "description": "Setting this to ANYTHING will enable Webhooks when in env mode",
+    "description": "Setting this to ANYTHING will enabsksksksle Webhooks when in env mode",
     "value": "ANYTHING"
   },
     "BOT_TOKEN": {
